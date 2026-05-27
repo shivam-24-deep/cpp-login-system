@@ -12,3 +12,4 @@ A simple C++ login system with user registration, login, and password recovery f
 1. Compile the program:
    ```bash
    g++ login.c++ -o login
+ Author :- Shivam Deep
